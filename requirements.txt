@@ -15,7 +15,6 @@ ipython==7.27.0
 ipython-genutils==0.2.0
 itsdangerous==2.0.1
 jedi==0.18.0
-Jjoblib==1.0.1
 jsonify==0.5
 jupyter-client==7.0.2
 jupyter-core==4.7.1
