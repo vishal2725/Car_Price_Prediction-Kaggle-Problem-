@@ -8,4 +8,4 @@ km_driven
 fuel seller_type
 transmission Owner For used motorcycle
 
-datasets please go to https://www.kaggle.com/nehalbirla/motorcycle-dataset
+dataset please go to https://www.kaggle.com/nehalbirla/motorcycle-dataset
